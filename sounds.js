@@ -100,28 +100,28 @@ const sounds = [
         key: "Z"
     },
     {
-        title: "bowok",
+        title: "Bowok",
         file: "bowok.mp3",
         key: "B"
     },
     {
-        title: "kaget",
+        title: "Kaget",
         file: "kaget.mp3",
         key: "M"
     },
     {
-        title: "jancog",
+        title: "Jancog",
         file: "janco.mp3",
         key: "V"
     },
     {
-        title: "jowokwi",
+        title: "Jowokwi",
         file: "jowokwi.mp3",
         key: "C"
-     },
-     {
-        title: "pitik",
+    },
+    {
+        title: "Pitik",
         file: "pitik.mp3",
         key: "X"
-     }
-     ];
+    }
+];
