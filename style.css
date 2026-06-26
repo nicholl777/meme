@@ -170,3 +170,25 @@ body.light .card{
     }
 
 }
+
+.title{
+
+    font-size:20px;
+
+    font-weight:700;
+
+    letter-spacing:1px;
+
+    text-align:center;
+
+    color:white;
+
+    line-height:1.4;
+
+}
+
+body.light .title{
+
+    color:white;
+
+}
