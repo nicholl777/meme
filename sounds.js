@@ -123,4 +123,4 @@ const sounds = [
         title: "pitik",
         file: "pitik.mp3",
         key: "X"
-];
+     ];
