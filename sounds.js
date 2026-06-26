@@ -117,10 +117,10 @@ const sounds = [
     {
         title: "jowokwi",
         file: "jowokwi.mp3",
-        key: "O"
+        key: "C"
      },
      {
         title: "pitik",
         file: "pitik.mp3",
-        key: "P"
+        key: "X"
 ];
