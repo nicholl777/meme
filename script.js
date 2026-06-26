@@ -71,7 +71,7 @@ function playSound(file, card) {
         activeCard.classList.remove("playing");
     }
 
-    currentAudio = new Audio("audio/" + file);
+    currentAudio = new Audio(file);
     currentFile = file;
     activeCard = card;
 
