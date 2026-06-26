@@ -110,7 +110,7 @@ sounds.forEach(sound=>{
 
     card.style.background=getColor(sound.title);
 
-    card.innerHTML=`${sound.title}`;
+    card.innerHTML = `<div class="sound-title">${sound.title}</div>`;
 
     card.onclick=()=>{
 
