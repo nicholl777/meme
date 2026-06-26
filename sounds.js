@@ -112,7 +112,7 @@ const sounds = [
     {
         title: "jancog",
         file: "janco.mp3",
-        key: "J"
+        key: "V"
     },
     {
         title: "jowokwi",
