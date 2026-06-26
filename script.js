@@ -15,31 +15,36 @@ function getColor(title) {
         "Anjing Ngejar",
         "Bangsat Kau",
         "Dada Sakit",
-        "Om Burhan"
+        "Om Burhan",
+        "Jowokwi"
     ].includes(title)) return colors.red;
 
     if ([
         "Awas Jatoh",
         "Nyawa Taruhan",
-        "Selamatkan Diri"
+        "Selamatkan Diri",
+        "Bowok"
     ].includes(title)) return colors.orange;
 
     if ([
         "Gokgok",
         "Blok Woi",
         "Acumalaka",
-        "Spongebob"
+        "Spongebob",
+        "Kaget"
     ].includes(title)) return colors.yellow;
 
     if ([
         "Among Us",
         "Anjay",
-        "Terbaik Man"
+        "Terbaik Man",
+        "Jancog"
     ].includes(title)) return colors.green;
 
     if ([
         "Ilang",
-        "Aman Ga"
+        "Aman Ga",
+        "Pitik"
     ].includes(title)) return colors.blue;
 
     return colors.purple;
