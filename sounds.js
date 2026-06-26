@@ -86,7 +86,7 @@ const sounds = [
     },
     {
         title: "Spongebob",
-        file: "spongebob.mp3",
+        file: "spongebbob.mp3",
         key: "K"
     },
     {
@@ -98,5 +98,29 @@ const sounds = [
         title: "Rono Rono",
         file: "rono rono.mp3",
         key: "Z"
-    }
+    },
+    {
+        title: "bowok",
+        file: "bowok.mp3",
+        key: "B"
+    },
+    {
+        title: "kaget",
+        file: "kaget.mp3",
+        key: "M"
+    },
+    {
+        title: "jancog",
+        file: "janco.mp3",
+        key: "J"
+    },
+    {
+        title: "jowokwi",
+        file: "jowokwi.mp3",
+        key: "O"
+     },
+     {
+        title: "pitik",
+        file: "pitik.mp3",
+        key: "P"
 ];
